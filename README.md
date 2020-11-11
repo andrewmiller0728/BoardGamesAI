@@ -4,7 +4,7 @@ Goal: Create an AI that can play the board game "Senet"
 
 Preliminary Tasks:
   1. Learn how to use IntelliJ IDEA
-  2. Learn how to use libDGX
+  2. Learn how to use libGDX
 
 Objectives:
   1. Create a backend of the game
